@@ -6,9 +6,9 @@ It connects Microsoft Flight Simulator on your Windows PC to the Avionics Buddy 
 
 ## What it does
 
-- Connects to Microsoft Flight Simulator 2020 or 2024
+- Connects to Microsoft Flight Simulator 2024
 - Reads live simulator telemetry through SimConnect
-- Serves telemetry to Avionics Buddy over the local network
+- Serves telemetry to Avionics Buddy App over the local network
 - Shows a QR code and pairing link for easy setup
 - Works locally — no account, no cloud telemetry
 
@@ -16,7 +16,7 @@ It connects Microsoft Flight Simulator on your Windows PC to the Avionics Buddy 
 
 - Windows 10 or later
 - Microsoft Flight Simulator 2020 or 2024
-- iPhone or iPad with Avionics Buddy installed
+- iPhone or iPad with Avionics Buddy installed (https://apps.apple.com/app/avionics-buddy/id6773903019)
 - PC and iPhone/iPad connected to the same local network
 - Local network access allowed through Windows Firewall
 
